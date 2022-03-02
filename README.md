@@ -25,7 +25,7 @@ Then, simply run the script,
 
 
 ## Acknowledgements
-Thanks to **TORNGATS** for providing the required equipment and support for performing the experiment and requirement analysis.
+Thanks to **TORNGATS** for providing the required support for performing the experiment and requirement analysis.
 
 ## Contact
-Parham Nooralishahi - parham.nooralishahi.1@ulaval.ca | [@phm](https://www.linkedin.com/in/parham-nooralishahi/) <br/>
+Parham Nooralishahi - parham.nooralishahi@gmail.com | [@phm](https://www.linkedin.com/in/parham-nooralishahi/) <br/>
