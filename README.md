@@ -5,6 +5,25 @@ Image labeling is a common task in computer vision where humans are used to gene
 
 The docker uses the original implementation of [GIMP Image Labeling Toolbox](https://github.com/vietjtnguyen/gimp-image-labeling-toolbox)
 
+## Dependencies
+
+* Docker
+
+## Execution
+
+For executing the labeling toolbox, firstly you need to make the script executable,
+
+```
+chmod u+x run_docker.sh
+```
+
+Then, simply run the script,
+
+```
+./run_docker.sh
+```
+
+
 ## Acknowledgements
 Thanks to **TORNGATS** for providing the required equipment and support for performing the experiment and requirement analysis.
 
