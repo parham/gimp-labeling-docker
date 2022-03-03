@@ -9,6 +9,14 @@ The docker uses the original implementation of [GIMP Image Labeling Toolbox](htt
 
 * Docker
 
+## Pull from Docker
+
+The docker image can be directly pulled from the DockerHub repo.
+
+```
+docker pull phm66/gimp-labeling-toolbox
+```
+
 ## Execution
 
 For executing the labeling toolbox, firstly you need to make the script executable,
