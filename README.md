@@ -22,7 +22,19 @@ Then, simply run the script,
 ```
 ./run_docker.sh
 ```
-
+## Manual Docker Building
+The Dockerfile can be built manually,
+```
+docker build --pull --rm -f "Dockerfile" -t gimp-labeler:latest "."
+```
+## Manual Docker Running
+```
+docker run --rm -it --init \
+    --ipc=host --env="DISPLAY" \
+    -v $HOME/.Xauthority:/root/.Xauthority \
+    --volume="$PWD/data:/data" \
+    --privileged --net=host  gimp-labeler:latest
+```
 
 ## Acknowledgements
 Thanks to **TORNGATS** for providing the required support for performing the experiment and requirement analysis.
