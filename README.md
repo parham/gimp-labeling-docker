@@ -3,7 +3,7 @@ Docker for GIMP Image Labeling Toolbox
 
 Image labeling is a common task in computer vision where humans are used to generate a ground truth data set to act both as training data for computer vision algorithms and testing benchmarks for methods that perform semantic segmentation algorithms. The label here is an assignment of a value (or possibly multiple values) to each pixel in the image. These values are usually integers which map to semantic categories such as "train" and "person". Since labels are assigned to each pixel the task is inherently a *painting* task. It then makes sense to use a painting program to perform hand labeling. This toolbox seeks to facilitate this by working with [the GNU Image Manipulation Program (GIMP)](http://www.gimp.org/) [[1]](https://github.com/vietjtnguyen/gimp-image-labeling-toolbox)
 
-The docker uses the original implementation of [GIMP Image Labeling Toolbox](https://github.com/vietjtnguyen/gimp-image-labeling-toolbox)
+This docker image uses the original implementation of [GIMP Image Labeling Toolbox](https://github.com/vietjtnguyen/gimp-image-labeling-toolbox)
 
 ## Dependencies
 
