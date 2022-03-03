@@ -40,4 +40,4 @@ docker run --rm -it --init \
 Thanks to **TORNGATS** for providing the required support for performing the experiment and requirement analysis.
 
 ## Contact
-Parham Nooralishahi - parham.nooralishahi@gmail.com | [@phm](https://www.linkedin.com/in/parham-nooralishahi/) <br/>
+Parham Nooralishahi - [first name].[last name]@gmail.com | [@phm](https://www.linkedin.com/in/parham-nooralishahi/) <br/>
