@@ -1,3 +1,7 @@
+<a href="https://www.ulaval.ca/en/" target="_blank">
+    <img src="https://ssc.ca/sites/default/files/logo-ulaval-reseaux-sociaux.jpg" alt="Logo" width="280" height="100">
+</a>
+
 Docker for GIMP Image Labeling Toolbox
 ===========================
 
@@ -43,9 +47,6 @@ docker run --rm -it --init \
     --volume="$PWD/data:/data" \
     --privileged --net=host  gimp-labeler:latest
 ```
-
-## Acknowledgements
-Thanks to **TORNGATS** for providing the required support for performing the experiment and requirement analysis.
 
 ## Contact
 Parham Nooralishahi - [first name].[last name]@gmail.com | [@phm](https://www.linkedin.com/in/parham-nooralishahi/) <br/>
